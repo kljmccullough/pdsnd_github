@@ -8,10 +8,10 @@
 The program collates bikeshare data based on user preference for three cities. 
 
 ### Files used
-"-" bikeshare_2.py
-"-" chicago.csv
-"-" new_york_city.csv
-"-" washington.csv
+1. bikeshare_2.py
+2. chicago.csv
+3. new_york_city.csv
+4. washington.csv
 
 ### Credits
 1. https://stackoverflow.com/questions/30523521/pandas-printing-the-names-and-values-in-a-series
