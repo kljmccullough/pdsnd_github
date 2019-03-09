@@ -2,7 +2,7 @@
 **Date Created:** 07March2019
 
 ### Project Title
-Bikeshare Data Analysis Program
+*Bikeshare Data Analysis Program*
 
 ### Description
 The program collates bikeshare data based on user preference for three cities. 
