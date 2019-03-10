@@ -20,3 +20,4 @@ The program collates bikeshare data based on user preference for three cities.
 4. https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#emphasis
 5. https://confluence.atlassian.com/bitbucket/branching-a-repository-223217999.html
 6. https://guides.github.com/features/mastering-markdown/#syntax
+7. https://stackoverflow.com/questions/3404294/merging-2-branches-together-in-git
